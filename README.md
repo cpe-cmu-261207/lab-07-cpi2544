@@ -15,4 +15,4 @@ npm run dev
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
-(https://github.com/cpe-cmu-261207/lab-07-cpi2544)
+(https://codesandbox.io/s/xenodochial-sky-wbit65)
